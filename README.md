@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning by building and improving real-world projects. **express.js MangoDb (advance Concepts)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrnaresh95](https://github.com/mrnaresh95)
+- 👨‍💻 All of my projects are available at  [https://github.com/NareshGolla95](https://github.com/NareshGolla95)
 
 - 💬 Ask me about **React.js, JavaScript fundamentals, Basic of Node.js,Express.js,MangoDb**
 
-- 📫 How to reach me **mrgollanaresh95@gmail.com**
+- 📫 How to reach me **nareshgolla.tech@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/mrnaresh95/Resume/blob/main/FAANGPath_Simple_Template%20(3).pdf](https://github.com/mrnaresh95/Resume/blob/main/FAANGPath_Simple_Template%20(3).pdf)
 
