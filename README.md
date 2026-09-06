@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naresh Golla</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnaresh95&label=Profile%20views&color=0e75b6&style=flat" alt="mrnaresh95" /> </p>
+<p align="left"> <img src="C:\Users\DELL\Downloads\WhatsApp Image 2026-09-06 at 3.53.30 PM.jpeg" alt="NareshGolla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnaresh95" alt="mrnaresh95" /></a> </p>
 
