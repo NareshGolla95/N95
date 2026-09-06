@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="C:\Users\DELL\Downloads\WhatsApp Image 2026-09-06 at 3.53.30 PM.jpeg" alt="NareshGolla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnaresh95" alt="mrnaresh95" /></a> </p>
-
 - 🔭I’m currently working on building full-stack projects using React.js with backend basics in Node.js, Express.js, and MongoDB. **Capstone Project**
 
 - 🌱 I’m currently learning by building and improving real-world projects. **express.js MangoDb (advance Concepts)**
